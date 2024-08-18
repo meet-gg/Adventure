@@ -6,9 +6,12 @@
   "version": "1.0.0",
   "description": "adventure css project",
   "main": "build",
-  "devDependencies": {},
+  "devDependencies": {
+    "webpack": "^5.93.0",
+    "webpack-cli": "^5.1.4"
+  },
   "scripts": {
-    "test": "no"
+    "build": "webpack --config webpack.config.js"
   },
   "repository": {
     "type": "git",
