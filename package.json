@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "name": "adventure",
+  "version": "1.0.0",
+  "description": "adventure css project",
+  "main": "build",
+  "devDependencies": {},
+  "scripts": {
+    "test": "no"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meet-gg/Adventure.git"
+  },
+  "keywords": [
+    "adventure"
+  ],
+  "author": "meet-gg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meet-gg/Adventure/issues"
+  },
+  "homepage": "https://github.com/meet-gg/Adventure#readme"
+}
